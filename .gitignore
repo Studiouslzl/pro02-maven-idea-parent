@@ -1,0 +1,3 @@
+# Project exclude paths
+/out/
+/pro03-maven-java/target/
